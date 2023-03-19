@@ -1,0 +1,57 @@
+{
+  
+  "mongodb": "mongodb+srv://euni_az3:Cf32JT3XvOwCPhgA@cluster0.wuqry0o.mongodb.net/cactus_bot&ssl=true",
+  "color": "#1ABC9C",
+
+  "status": {
+  "type": 2,
+  "switch": "idle",
+  "activities": ["/help", "/discord"]
+  },
+
+  "settings": {
+   "developers": ["693553429380857978", "878821057748926534"],
+   "branding": "",
+   "widget": ""
+  },
+
+  "lavalink_nodes": [
+  
+    {
+      "host": "node1.roverdev.xyz",
+      "port": 2334,
+      "password": "discord.gg/roverdev",
+      "retryDelay": 3000,
+      "secure": false
+    
+    }
+  ],
+
+
+  "emojis": {
+   "error": "<:cactus_error:1063600186649231470>",
+   "correct": "<:cactus_check:1063600271185428530>",
+   "timestamp": "<:cactus_timestamp:1063598708261916733>",
+   "timestamp2": "<:cactus_timestamp2:1063598812603625603>",
+   "servers": "<:cactus_servers:1063615898054828072>",
+   "heart": "<:heart:1063233173720416318>",
+   "invite": "<:cactus_invite:1063617736036581396>",
+   "question": "<:cactus_question:1063598581384216607>",
+   "discord": "<:cactus_discord:1063645825370165289>",
+   "ping": "<:cactus_ping:1063614862632161372>",
+   "uptime": "<:cactus_uptime:1063616959335387196>",
+   "members": "<:cactus_members:1063615730672738346>",
+   "mail": "<:cactus_mail:1063852022933225513>",
+   "guide": "<:cactus_guide:1063949126863167558>",
+   "message": "<:cactus_message:1063949682461646898>",
+   "globe": "<:cactus_globe:1063951075859775550>",
+   "format": "<:cactus_format:1063951994051641454>",
+   "widget": "<:cactus_widget:1063955117138776084>",
+   "reminder": "<:cactus_reminder:1065019864756002906>",
+   "settings": "<:cactus_settings:1065374255551881236>",
+   "giveaway": "<:cactus_giveaway:1065399898440208484>",
+   "reroll": "<:cactus_reroll:1065412777767870514>",
+   "audit": "<:cactus_audit:1066085758454222868>"
+  }
+  
+}
