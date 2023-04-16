@@ -4,7 +4,7 @@ const { Routes } = require('discord-api-types/v9');
 const { timezones } = require('./timezones.json');
 const client = require(`./bot.js`);
 
-  const token = "MTA4Njk4NDkwNTY1MDYxMDIzNw.GvrqAV._EQc9ruTSmvtutrsKCTlqM7kjqUe75lUYj2va4"
+  const token = "add-your-token-here"
 
 const commands = [
         
