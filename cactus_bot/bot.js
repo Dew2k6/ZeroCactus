@@ -11759,7 +11759,7 @@ async function sendAudit(guild, content) {
 
 
 // Login to Discord with your client's token
-client.login("MTA4Njk4NDkwNTY1MDYxMDIzNw.GvrqAV._EQc9ruTSmvtutrsKCTlqM7kjqUe75lUYj2va4");
+client.login("add-your-token-here");
 
 
 /*           ANTI CRASHING            ¦¦           ANTI CRASHING           */
